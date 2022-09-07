@@ -57,10 +57,8 @@ jobs:
       uses: JamesIves/github-pages-deploy-action@3.1.0
       if: always()
       with:
-        ACCESS_TOKEN: ${{'secrets.ACCESS_TOKEN'}}
-        BRANCH: master # The branch the action should deploy to.
-        FOLDER: allure-report # The folder the action should deploy.
-        TARGET_FOLDER: docs
+        folder: allure-report
+        target-folder: docs
       # If your repo is private and you want upload your report to another repo uncomment and set credential 
     # - name: Pushes to another repository
     #   uses: cpina/github-action-push-to-another-repository@main
