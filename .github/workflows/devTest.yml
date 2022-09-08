@@ -58,7 +58,6 @@ jobs:
       if: always()
       with:
         folder: allure-report
-        target-folder: docs
       # If your repo is private and you want upload your report to another repo uncomment and set credential 
     # - name: Pushes to another repository
     #   uses: cpina/github-action-push-to-another-repository@main
