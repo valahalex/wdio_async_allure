@@ -1,0 +1,66 @@
+{
+  "uid" : "f2eb25ce4d00628b",
+  "name" : "Check h2 header displayed",
+  "fullName" : "Check login page defaults.Check h2 header displayed",
+  "historyId" : "320787287f7eae062c92c261824e1a36",
+  "time" : {
+    "start" : 1662618178915,
+    "stop" : 1662618179256,
+    "duration" : 341
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-4"
+  }, {
+    "name" : "suite",
+    "value" : "Check login page defaults"
+  }, {
+    "name" : "testClass",
+    "value" : "Check login page defaults"
+  }, {
+    "name" : "testMethod",
+    "value" : "Check h2 header displayed"
+  }, {
+    "name" : "package",
+    "value" : "Check login page defaults"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-105.0.5195.102"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "163e5ac39a595c9f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1662618178873,
+        "stop" : 1662618179154,
+        "duration" : 281
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f2eb25ce4d00628b.json",
+  "parameterValues" : [ "chrome-105.0.5195.102" ]
+}

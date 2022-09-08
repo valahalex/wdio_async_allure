@@ -1,0 +1,58 @@
+{
+  "uid" : "7b0e76b27ebaccff",
+  "name" : "Verify Add button",
+  "fullName" : "Check Add Remove elements page defaults.Verify Add button",
+  "historyId" : "81a8e6beac99c752e114ffbd7cffec36",
+  "time" : {
+    "start" : 1662618179182,
+    "stop" : 1662618179411,
+    "duration" : 229
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Check Add Remove elements page defaults"
+  }, {
+    "name" : "testClass",
+    "value" : "Check Add Remove elements page defaults"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify Add button"
+  }, {
+    "name" : "package",
+    "value" : "Check Add Remove elements page defaults"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-105.0.5195.102"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7b0e76b27ebaccff.json",
+  "parameterValues" : [ "chrome-105.0.5195.102" ]
+}

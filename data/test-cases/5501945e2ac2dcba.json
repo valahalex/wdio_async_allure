@@ -1,0 +1,93 @@
+{
+  "uid" : "5501945e2ac2dcba",
+  "name" : "Check h2 header displayed",
+  "fullName" : "Check login page defaults.Check h2 header displayed",
+  "historyId" : "12970176611c96d8e49ff53fc9f07037",
+  "time" : {
+    "start" : 1642147683444,
+    "stop" : 1642147683699,
+    "duration" : 255
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-3"
+  }, {
+    "name" : "suite",
+    "value" : "Check login page defaults"
+  }, {
+    "name" : "testClass",
+    "value" : "Check login page defaults"
+  }, {
+    "name" : "testMethod",
+    "value" : "Check h2 header displayed"
+  }, {
+    "name" : "package",
+    "value" : "Check login page defaults"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-97.0.4692.71"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "68193763195f6fe8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642147683438,
+        "stop" : 1642147683709,
+        "duration" : 271
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 3,
+        "unknown" : 0,
+        "total" : 3
+      },
+      "items" : [ {
+        "uid" : "18ed99cc3a29af52",
+        "status" : "passed",
+        "time" : {
+          "start" : 1642147683444,
+          "stop" : 1642147683699,
+          "duration" : 255
+        }
+      }, {
+        "uid" : "74171d91840befe8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1642147683444,
+          "stop" : 1642147683699,
+          "duration" : 255
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "5501945e2ac2dcba.json",
+  "parameterValues" : [ "chrome-97.0.4692.71" ]
+}

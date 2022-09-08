@@ -1,0 +1,58 @@
+{
+  "uid" : "9ff4b1d9c2769f50",
+  "name" : "Verify Title",
+  "fullName" : "Verify broken images.Verify Title",
+  "historyId" : "7c1d3f40cf74ff5d9463f4fe2a1c94a5",
+  "time" : {
+    "start" : 1662618178833,
+    "stop" : 1662618179186,
+    "duration" : 353
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-2"
+  }, {
+    "name" : "suite",
+    "value" : "Verify broken images"
+  }, {
+    "name" : "testClass",
+    "value" : "Verify broken images"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify Title"
+  }, {
+    "name" : "package",
+    "value" : "Verify broken images"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-105.0.5195.102"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9ff4b1d9c2769f50.json",
+  "parameterValues" : [ "chrome-105.0.5195.102" ]
+}

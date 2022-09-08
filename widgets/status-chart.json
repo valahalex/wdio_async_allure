@@ -1,0 +1,361 @@
+[ {
+  "uid" : "9b0b7dbe6251223b",
+  "name" : "Remove element",
+  "time" : {
+    "start" : 1662618179937,
+    "stop" : 1662618181088,
+    "duration" : 1151
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a772d4c3eff72dcf",
+  "name" : "Remove element",
+  "time" : {
+    "start" : 1632379851151,
+    "stop" : 1632379852294,
+    "duration" : 1143
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c770f65168ed97ab",
+  "name" : "Check h3 header displayed",
+  "time" : {
+    "start" : 1662618178752,
+    "stop" : 1662618179181,
+    "duration" : 429
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ca958c274b948015",
+  "name" : "Ispect footer text",
+  "time" : {
+    "start" : 1642147683710,
+    "stop" : 1642147683998,
+    "duration" : 288
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5501945e2ac2dcba",
+  "name" : "Check h2 header displayed",
+  "time" : {
+    "start" : 1642147683444,
+    "stop" : 1642147683699,
+    "duration" : 255
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6d750f866f9cc57f",
+  "name" : "Check h2 header displayed",
+  "time" : {
+    "start" : 1649330235397,
+    "stop" : 1649330235575,
+    "duration" : 178
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a24a96e06485633c",
+  "name" : "Remove element",
+  "time" : {
+    "start" : 1649330235896,
+    "stop" : 1649330237096,
+    "duration" : 1200
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "46e9358862aa281f",
+  "name" : "Add element",
+  "time" : {
+    "start" : 1632379850940,
+    "stop" : 1632379851151,
+    "duration" : 211
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f2eb25ce4d00628b",
+  "name" : "Check h2 header displayed",
+  "time" : {
+    "start" : 1662618178915,
+    "stop" : 1662618179256,
+    "duration" : 341
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6755fefb677df52f",
+  "name" : "Check h3 header displayed",
+  "time" : {
+    "start" : 1642147683273,
+    "stop" : 1642147683547,
+    "duration" : 274
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "66593cdfca6f9950",
+  "name" : "Add element",
+  "time" : {
+    "start" : 1642147683701,
+    "stop" : 1642147684383,
+    "duration" : 682
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "eee1ae788a1db9d7",
+  "name" : "Check h3 header displayed",
+  "time" : {
+    "start" : 1632379850667,
+    "stop" : 1632379850872,
+    "duration" : 205
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f3b9842e0f22640f",
+  "name" : "Remove element",
+  "time" : {
+    "start" : 1642147684384,
+    "stop" : 1642147685619,
+    "duration" : 1235
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ff9c1694361c2540",
+  "name" : "Verify Footer link",
+  "time" : {
+    "start" : 1642147684003,
+    "stop" : 1642147684237,
+    "duration" : 234
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2058debea5c0790e",
+  "name" : "Login with correct credential",
+  "time" : {
+    "start" : 1632379850209,
+    "stop" : 1632379850798,
+    "duration" : 589
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "924bc707b13a4f6c",
+  "name" : "Login with correct credential",
+  "time" : {
+    "start" : 1649330234578,
+    "stop" : 1649330235814,
+    "duration" : 1236
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3ab463f63588993",
+  "name" : "Check h2 header displayed",
+  "time" : {
+    "start" : 1632379850643,
+    "stop" : 1632379850864,
+    "duration" : 221
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "42a24c5bcfeaa7cb",
+  "name" : "Verify Title",
+  "time" : {
+    "start" : 1642147683369,
+    "stop" : 1642147683717,
+    "duration" : 348
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c57d3241b60e64e5",
+  "name" : "Verify Title",
+  "time" : {
+    "start" : 1649330235294,
+    "stop" : 1649330235543,
+    "duration" : 249
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "381544ba787417c0",
+  "name" : "Verify Add button",
+  "time" : {
+    "start" : 1632379850873,
+    "stop" : 1632379850929,
+    "duration" : 56
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e3b4dad4603af1e4",
+  "name" : "Verify Footer link",
+  "time" : {
+    "start" : 1632379850976,
+    "stop" : 1632379851093,
+    "duration" : 117
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "de0bc26dac822c0f",
+  "name" : "Add element",
+  "time" : {
+    "start" : 1649330235492,
+    "stop" : 1649330235895,
+    "duration" : 403
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7b0e76b27ebaccff",
+  "name" : "Verify Add button",
+  "time" : {
+    "start" : 1662618179182,
+    "stop" : 1662618179411,
+    "duration" : 229
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b190a74d9b7cb9c0",
+  "name" : "Login with correct credential",
+  "time" : {
+    "start" : 1662618178029,
+    "stop" : 1662618178911,
+    "duration" : 882
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9ff4b1d9c2769f50",
+  "name" : "Verify Title",
+  "time" : {
+    "start" : 1662618178833,
+    "stop" : 1662618179186,
+    "duration" : 353
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "761518fa6e95f9a0",
+  "name" : "Check h3 header displayed",
+  "time" : {
+    "start" : 1649330235186,
+    "stop" : 1649330235393,
+    "duration" : 207
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a9b7bd8199f17c9d",
+  "name" : "Ispect footer text",
+  "time" : {
+    "start" : 1632379850865,
+    "stop" : 1632379850976,
+    "duration" : 111
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "76a39b080cb99718",
+  "name" : "Verify Add button",
+  "time" : {
+    "start" : 1649330235393,
+    "stop" : 1649330235455,
+    "duration" : 62
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "36378c7c5bca1392",
+  "name" : "Ispect footer text",
+  "time" : {
+    "start" : 1662618179256,
+    "stop" : 1662618179413,
+    "duration" : 157
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a512c51956344f3f",
+  "name" : "Verify Footer link",
+  "time" : {
+    "start" : 1649330235739,
+    "stop" : 1649330235891,
+    "duration" : 152
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9eadef890c564079",
+  "name" : "Verify Add button",
+  "time" : {
+    "start" : 1642147683547,
+    "stop" : 1642147683617,
+    "duration" : 70
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "56c7a0448f1e5a67",
+  "name" : "Verify Footer link",
+  "time" : {
+    "start" : 1662618179413,
+    "stop" : 1662618179613,
+    "duration" : 200
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8ba144cfa245ec43",
+  "name" : "Ispect footer text",
+  "time" : {
+    "start" : 1649330235575,
+    "stop" : 1649330235739,
+    "duration" : 164
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8f4e93c67384a1",
+  "name" : "Verify Title",
+  "time" : {
+    "start" : 1632379850670,
+    "stop" : 1632379850924,
+    "duration" : 254
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3bd34f25f350c7ee",
+  "name" : "Add element",
+  "time" : {
+    "start" : 1662618179445,
+    "stop" : 1662618179937,
+    "duration" : 492
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "19a58a7a7dd9d111",
+  "name" : "Login with correct credential",
+  "time" : {
+    "start" : 1642147682552,
+    "stop" : 1642147684144,
+    "duration" : 1592
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

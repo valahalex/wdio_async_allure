@@ -1,0 +1,77 @@
+{
+  "uid" : "a24a96e06485633c",
+  "name" : "Remove element",
+  "fullName" : "Verify Add Remove elements.Remove element",
+  "historyId" : "1881a5b7d56b1963d4aba29a6925769e",
+  "time" : {
+    "start" : 1649330235896,
+    "stop" : 1649330237096,
+    "duration" : 1200
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Verify Add Remove elements"
+  }, {
+    "name" : "testClass",
+    "value" : "Verify Add Remove elements"
+  }, {
+    "name" : "testMethod",
+    "value" : "Remove element"
+  }, {
+    "name" : "package",
+    "value" : "Verify Add Remove elements"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-100.0.4896.60"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "ea40fe72848c46c2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649330235896,
+          "stop" : 1649330237096,
+          "duration" : 1200
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "a24a96e06485633c.json",
+  "parameterValues" : [ "chrome-100.0.4896.60" ]
+}
